@@ -1,4 +1,4 @@
-<img src="https://cutewallpaper.org/22/schematic-wallpapers/view-page-22.html" ait="">
+<img src="https://cutewallpaper.org/22/schematic-wallpapers/view-page-22.html" ait="dev">
 <h1 align="center">Hi 👋, I'm Muhammad Sahad</h1>
 <h3 align="center">Python Full Stack Developer</h3>
 
